@@ -21,3 +21,8 @@ quasar build
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 # Weather_App
+
+
+#### App still in progress
+Runs on android devices but not on ios.
+Still have to convert into apk.
