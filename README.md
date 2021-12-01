@@ -25,4 +25,4 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 #### App still in progress
 Runs on android devices but not on ios.
-Still have to convert into apk.
+Not a full function app, user can not login and it doesn't have database.
